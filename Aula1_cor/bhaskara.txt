@@ -1,0 +1,15 @@
+- Sabe-se que o formato de uma equação de segunda ordem é: ax² + bx + c.
+- Sendo a, b e c números reais.
+- Discriminar a, b e c.
+- Calcular primeiramente o Delta = (b**2) - (4*a*c)
+- Saber que:   Se Delta<0 então escreva "sem raízes reais"
+                  **** dizer o que fazer, sair do programa, ou calcular as raizes complexas
+               
+               Se Delta = 0 , então utilizar a fórmula  x= (-b)/(2*a)
+                  *** e imprimir x
+               
+               Se Delta>0 , então utilizar as fórmulas x1= ((-b) + sqrt(Delta))/(2*a)
+                                                       x2= ((-b) - sqrt(Delta))/(2*a)
+                   *** e imprimir x1 e x2
+- Fim do Se
+- Fim
